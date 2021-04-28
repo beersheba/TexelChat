@@ -21,3 +21,7 @@ App can run on both iOS and Android (also on Web, Mac and PC).
 Source code can be compiled using Android Studio or VSCode (open the root directory).
 
 If you don't have Flutter on your machine, <a href="https://flutter.dev/docs/get-started/install">please install it first</a>
+
+##
+
+Android APK build can be downloaded from <a href="https://github.com/beersheba/texel-chat/releases/tag/1.0">Releases</a>
