@@ -18,7 +18,6 @@ App can run on both iOS and Android (also on Web, Mac and PC).
 
 <img src="https://github.com/beersheba/texel-chat/blob/master/images/chat.png" width="700">
 
-Source can be compiled using Android Studio or VSCode.
+Source code can be compiled using Android Studio or VSCode (open the root directory).
 
 If you don't have Flutter on your machine, <a href="https://flutter.dev/docs/get-started/install">please install it first</a>
-
