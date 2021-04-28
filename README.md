@@ -1,7 +1,5 @@
 # Texel Chat
 
-##
-
 ![Demo](https://github.com/beersheba/texel-chat/blob/master/images/demo.gif)
 
 A simple messaging app where users can sign up and log in to chat.<br>
