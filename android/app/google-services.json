@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1070687734019",
+    "firebase_url": "https://flash-chat-54033.firebaseio.com",
+    "project_id": "flash-chat-54033",
+    "storage_bucket": "flash-chat-54033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070687734019:android:f5f8a35475879c4ed20136",
+        "android_client_info": {
+          "package_name": "me.rankov.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070687734019-esf0hcfsj909dmq940tub7tfv4tqdgkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUwAlpGgwTq7_KRLtV2BmNIROju5mAQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070687734019-esf0hcfsj909dmq940tub7tfv4tqdgkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070687734019-bdv5dhhch5il0gsvgsepcocbb37pq17v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.rankov.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070687734019:android:eaa8b36cd03431edd20136",
+        "android_client_info": {
+          "package_name": "me.rankov.texel_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070687734019-esf0hcfsj909dmq940tub7tfv4tqdgkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUwAlpGgwTq7_KRLtV2BmNIROju5mAQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070687734019-esf0hcfsj909dmq940tub7tfv4tqdgkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070687734019-bdv5dhhch5il0gsvgsepcocbb37pq17v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.rankov.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
